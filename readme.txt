@@ -1,4 +1,4 @@
- ____    _    ____  _____ _   _ 
+} ____    _    ____  _____ _   _ 
 |  _ \  / \  |  _ \| ____| \ | |
 | | | |/ _ \ | |_) |  _| |  \| |
 | |_| / ___ \|  _ <| |___| |\  |
@@ -15,7 +15,9 @@
 
                                 
 
-primero porn en la terminal
+primero pon en la terminal
 
 nano ~/.config/kitty/kitty.conf 
 
+si no tienes nada no pasa nada solo copia y pega lo del archivo Daren
+disfruta !!! 
