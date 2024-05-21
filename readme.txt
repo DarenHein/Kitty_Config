@@ -21,3 +21,9 @@ nano ~/.config/kitty/kitty.conf
 
 si no tienes nada no pasa nada solo copia y pega lo del archivo Daren
 disfruta !!! 
+
+colores : 
+	Green 
+	ORange 
+	Yellow 
+	Cyan
