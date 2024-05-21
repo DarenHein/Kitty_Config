@@ -1,0 +1,22 @@
+# Configuración para fondo negro y letras en color #DBC200
+background #000000
+foreground #DBC200
+
+# Colores de la paleta de colores
+color0 #000000
+color1 #DBC200
+color2 #DBC200
+color3 #DBC200
+color4 #DBC200
+color5 #DBC200
+color6 #DBC200
+color7 #DBC200
+color8 #DBC200
+color9 #DBC200
+color10 #DBC200
+color11 #DBC200
+color12 #DBC200
+color13 #DBC200
+color14 #DBC200
+color15 #DBC200
+
