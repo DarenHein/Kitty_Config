@@ -1,0 +1,21 @@
+# Configuración para fondo azul oscuro y letras verdes al estilo Matrix
+background #08111c
+foreground #00FF00
+
+# Colores de la paleta de colores
+color0 #08111c
+color1 #00FF00
+color2 #00FF00
+color3 #00FF00
+color4 #00FF00
+color5 #00FF00
+color6 #00FF00
+color7 #00FF00
+color8 #00FF00
+color9 #00FF00
+color10 #00FF00
+color11 #00FF00
+color12 #00FF00
+color13 #00FF00
+color14 #00FF00
+color15 #00FF00
