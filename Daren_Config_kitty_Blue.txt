@@ -1,0 +1,21 @@
+# Configuración para fondo negro y letras en color cyan
+background #000000
+foreground #01a4fb
+
+# Colores de la paleta de colores
+color0 #000000
+color1 #01a4fb
+color2 #01a4fb
+color3 #01a4fb
+color4 #01a4fb
+color5 #01a4fb
+color6 #01a4fb
+color7 #01a4fb
+color8 #01a4fb
+color9 #01a4fb
+color10 #01a4fb
+color11 #01a4fb
+color12 #01a4fb
+color13 #01a4fb
+color14 #01a4fb
+color15 #01a4fb
