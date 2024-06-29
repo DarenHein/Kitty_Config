@@ -1,0 +1,21 @@
+# Configuración para fondo negro y letras moradas
+background #000000
+foreground #FF00FF
+
+# Colores de la paleta de colores
+color0 #000000
+color1 #FF00FF
+color2 #FF00FF
+color3 #FF00FF
+color4 #FF00FF
+color5 #FF00FF
+color6 #FF00FF
+color7 #FF00FF
+color8 #FF00FF
+color9 #FF00FF
+color10 #FF00FF
+color11 #FF00FF
+color12 #FF00FF
+color13 #FF00FF
+color14 #FF00FF
+color15 #FF00FF
