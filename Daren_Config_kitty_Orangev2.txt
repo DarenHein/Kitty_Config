@@ -1,0 +1,21 @@
+# Configuración para fondo negro y letras color fc6701 al estilo Matrix
+background #000000
+foreground #fc6701
+
+# Colores de la paleta de colores
+color0 #000000
+color1 #fc6701
+color2 #fc6701
+color3 #fc6701
+color4 #fc6701
+color5 #fc6701
+color6 #fc6701
+color7 #fc6701
+color8 #fc6701
+color9 #fc6701
+color10 #fc6701
+color11 #fc6701
+color12 #fc6701
+color13 #fc6701
+color14 #fc6701
+color15 #fc6701
