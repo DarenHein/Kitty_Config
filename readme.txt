@@ -27,3 +27,4 @@ colores :
 	ORange 
 	Yellow 
 	Cyan
+	y mas 
